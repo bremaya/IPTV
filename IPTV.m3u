@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="globo.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="TV Aberta",Rede Globo (????p)
+https://www.tibiadown.com/token/redirect.php?no-cache=b949c4f0fabde4da61aaf691363ece9eb705dfc282e4d9c0
+#EXTINF:-1 tvg-id="RedeMassa.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-massa_m.png" group-title="TV Aberta",SBT Rede Massa (720p)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:-1 tvg-id="RecordSaoPaulo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="TV Aberta",Record TV SP (720p)
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="Band.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://imgur.com/HnL2uBA.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="TV Aberta",Band (1080p)
+https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.livetvnews.com.br/wp-content/uploads/2019/03/Logo-RedeTV.png" group-title="TV Aberta",Rede TV! SP (720p)
+https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/300px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="TV Aberta",Rede Brasil (720p)
+https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="CulturaPara.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5jPEI5c.png" group-title="TV Aberta",Cultura Pará (480p)
+http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
+#EXTINF:-1 tvg-id="Futura.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/300px-Canal_Futura.png" group-title="TV Aberta",Futura (540p)
+https://tv.unisc.br/hls/test.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="TV Aberta",Record News (720p)
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="TV Aberta",TV Aparecida (1080p)
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rede_Vida_logo.png/267px-Rede_Vida_logo.png" group-title="TV Aberta",Rede Vida (720p)
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RecordBelem.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="TV Aberta",Record TV Belem (720p)
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="NickClassico.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" group-title="Infantil",Nick Clássico (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="NickJrClub.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" group-title="Infantil",Nick Jr. Club (480p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="NickTeen.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="Infantil",Nick Teen (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="Comédia",Comedy Central Pluto TV (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="HotFM.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://imgur.com/hvm6Npo.png" group-title="Rádios",Hot FM SP
+http://flash8.crossdigital.com.br/id2266/id2266/playlist.m3u8
+#EXTINF:-1 tvg-id="radioperolafm.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img.radios.com.br/radio/lg/radio22474_1509645432.jpg" group-title="Rádios",Rádio Perola do Salgado FM PA
+https://9603.brasilstream.com.br/stream?identifica=1295823570305734700&rand=5212088895766131000

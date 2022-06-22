@@ -35,5 +35,3 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583
 http://flash8.crossdigital.com.br/id2266/id2266/playlist.m3u8
 #EXTINF:-1 tvg-id="radioperolafm.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img.radios.com.br/radio/lg/radio22474_1509645432.jpg" group-title="Rádios" radio="true",Rádio Perola do Salgado FM PA
 https://9603.brasilstream.com.br/stream?identifica=1295823570305734700&rand=5212088895766131000
-#EXTINF:-1 tvg-id="Os Simpsons" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Series",Os Simpsons T02EP01
-https://sinalpublico.com/player3/server1httphlb.php?vid=OSMPST02EP01

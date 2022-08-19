@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="globo.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="TV Aberta",Rede Globo (720p)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]TV PARA TODOS[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxptv.net:8080/Jocasa/10203040/50324
-#EXTINF:-1 tvg-id="RedeMassa.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-massa_m.png" group-title="TV Aberta",SBT Rede Massa (720p)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]TV PARA TODOS[/COLOR]&maxbitrate=0&buffer=20191129153332&url=https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-#EXTINF:-1 tvg-id="RecordSaoPaulo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="TV Aberta",Record TV SP (720p)
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-#EXTINF:-1 tvg-id="Band.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://imgur.com/HnL2uBA.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="TV Aberta",Band (1080p)
-https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]TV Liberal (Globo PA)[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxptv.net:8080/Jocasa/10203040/50324
+#EXTINF:-1 tvg-id="sbt.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-massa_m.png" group-title="TV Aberta",SBT Rede Massa (720p)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]SBT SP[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxptv.net:8080/Jocasa/10203040/27140
+#EXTINF:-1 tvg-id="record.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="TV Aberta",Record TV SP (720p)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]Record SP[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxptv.net:8080/Jocasa/10203040/27143
+#EXTINF:-1 tvg-id="band.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://imgur.com/HnL2uBA.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="TV Aberta",Band (1080p)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]Band SP[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxptv.net:8080/Jocasa/10203040/27156
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.livetvnews.com.br/wp-content/uploads/2019/03/Logo-RedeTV.png" group-title="TV Aberta",Rede TV! SP (720p)
 https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/300px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="TV Aberta",Rede Brasil (720p)

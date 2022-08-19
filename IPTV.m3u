@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="globo.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="TV Aberta",Rede Globo (720p)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]TV Liberal (Globo PA)[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxptv.net:8080/Jocasa/10203040/50324
-#EXTINF:-1 tvg-id="sbt.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-massa_m.png" group-title="TV Aberta",SBT Rede Massa (720p)
+#EXTINF:-1 tvg-id="sbt.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/800px-Logotipo_do_SBT.svg.png" group-title="TV Aberta",SBT SP (720p)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]SBT SP[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxptv.net:8080/Jocasa/10203040/27140
 #EXTINF:-1 tvg-id="record.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="TV Aberta",Record TV SP (720p)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]Record SP[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxptv.net:8080/Jocasa/10203040/27143

@@ -7,14 +7,22 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]T
 http://trenduhd.xyz:80/2799903294/3640187040/188727
 #EXTINF:-1 tvg-id="sbt.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/800px-Logotipo_do_SBT.svg.png" group-title="TV Aberta",SBT SP (F4M) (720p)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]SBT SP[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://trenduhd.xyz:80/2799903294/3640187040/188727
-#EXTINF:-1 tvg-id="record.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="TV Aberta",Record TV SP (720p)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]Record SP[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxptv.net:8080/Jocasa/10203040/27143
-#EXTINF:-1 tvg-id="band.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://imgur.com/HnL2uBA.png" group-title="TV Aberta",Band (720p)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]Band SP[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxptv.net:8080/Jocasa/10203040/27157
+#EXTINF:-1 tvg-id="record.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="TV Aberta",Record TV PA (720p)
+http://trenduhd.xyz:80/2799903294/3640187040/217137
+#EXTINF:-1 tvg-id="record.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="TV Aberta",Record TV PA (F4M) (720p)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]Record PA[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://trenduhd.xyz:80/2799903294/3640187040/217137
+#EXTINF:-1 tvg-id="band.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://imgur.com/HnL2uBA.png" group-title="TV Aberta",Band SP (720p)
+http://trenduhd.xyz:80/2799903294/3640187040/188742
+#EXTINF:-1 tvg-id="band.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://imgur.com/HnL2uBA.png" group-title="TV Aberta",Band SP (F4M) (720p)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]Band SP[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://trenduhd.xyz:80/2799903294/3640187040/188742
 #EXTINF:-1 tvg-id="redetv.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.livetvnews.com.br/wp-content/uploads/2019/03/Logo-RedeTV.png" group-title="TV Aberta",Rede TV! SP (720p)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]Rede TV SP[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxptv.net:8080/Jocasa/10203040/27139
+http://trenduhd.xyz:80/2799903294/3640187040/188871
+#EXTINF:-1 tvg-id="redetv.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.livetvnews.com.br/wp-content/uploads/2019/03/Logo-RedeTV.png" group-title="TV Aberta",Rede TV! SP (F4M) (720p)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]Rede TV SP[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://trenduhd.xyz:80/2799903294/3640187040/188871
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/300px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="TV Aberta",Rede Brasil (720p)
-https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
+http://trenduhd.xyz:80/2799903294/3640187040/200362
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/300px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="TV Aberta",Rede Brasil (F4M) (720p)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]Rede Brasil[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://trenduhd.xyz:80/2799903294/3640187040/200362
 #EXTINF:-1 tvg-id="CulturaPara.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5jPEI5c.png" group-title="TV Aberta",Cultura Pará (480p)
 http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
 #EXTINF:-1 tvg-id="Futura.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/300px-Canal_Futura.png" group-title="TV Aberta",Futura (540p)

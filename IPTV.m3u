@@ -16,7 +16,7 @@ https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF:-1 tvg-id="Cultura.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5jPEI5c.png" group-title="TV Aberta",Cultura PA (720p)
 https://br7.ciclano.io:1443/fundacao-12109/fundacao-12109/chunklist_w254797970.m3u8
 #EXTINF:-1 tvg-id="Gazeta.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/75/Logotipo_da_TV_Gazeta_%28Rio_Branco%29.png" group-title="TV Aberta",TV Gazeta (720p)
-https://dai.ly/x89qors
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="TV Aberta",TV Aparecida (1080p)
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rede_Vida_logo.png/267px-Rede_Vida_logo.png" group-title="TV Aberta",Rede Vida (720p)

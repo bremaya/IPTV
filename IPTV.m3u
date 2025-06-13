@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="globo.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="TV Aberta",Rede Globo PA (TV Liberal) (720p)
 https://playon.click/live/930668174/B154E1646w/2367.m3u8
 #EXTINF:-1 tvg-id="sbt.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/800px-Logotipo_do_SBT.svg.png" group-title="TV Aberta",SBT SP (720p)
-https://simulcast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/f8d12b8d09674de28c0fca3e6e726c65/dashOutput.mpd?content_channel_id=12&content_livestream=1
+https://simulcast. de.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/f8d12b8d09674de28c0fca3e6e726c65/dashOutput.mpd?content_channel_id=12&content_livestream=1
 #EXTINF:-1 tvg-id="record.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="TV Aberta",Record TV MT (720p)
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 tvg-id="band.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://imgur.com/HnL2uBA.png" group-title="TV Aberta",Band PA (720p)
@@ -27,5 +27,5 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 https://i.mjh.nz/PlutoTV/all.m3u8
 #EXTINF:-1 tvg-id="radioperolafm.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img.radios.com.br/radio/lg/radio22474_1509645432.jpg" group-title="Rádios" radio="true",Rádio Perola do Salgado FM PA
 https://9603.brasilstream.com.br/stream?rand=bsgoD
-#EXTINF:-1 tvg-id="princesafmcapanema.com.br/" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img.radios.com.br/radio/lg/radio14348_1646935381.jpg" group-title="Rádios" radio="true",Rádio Princesa FM PA
-https://5a57bda70564a.streamlock.net/princehd/princehd.stream/chunklist_w479463941.m3u8
+#EXTINF:-1 tvg-id="jadefm.com.br/" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img.radios.com.br/radio/lg/radio223712_1696258364.jpg" group-title="Rádios" radio="true",Rádio Jade FM PA
+https://radio.saopaulo01.com.br:10765/stream

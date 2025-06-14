@@ -39,3 +39,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41a
 https://9603.brasilstream.com.br/stream
 #EXTINF:-1 tvg-id="jadefm.com.br/" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img.radios.com.br/radio/lg/radio223712_1696258364.jpg" group-title="Rádios" radio="true",Rádio Jade FM PA
 https://radio.saopaulo01.com.br:10765/stream
+#EXTINF:-1 tvg-id="radioperolafm.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img.radios.com.br/radio/lg/radio22474_1509645432.jpg" group-title="Rádios",Rádio Perola do Salgado FM PA
+https://9603.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="jadefm.com.br/" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img.radios.com.br/radio/lg/radio223712_1696258364.jpg" group-title="Rádios",Rádio Jade FM PA
+https://radio.saopaulo01.com.br:10765/stream

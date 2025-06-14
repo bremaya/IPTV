@@ -23,8 +23,12 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="JovemPan.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png" group-title="TV Aberta",Jovem Pan News (720p)
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-#EXTINF:-1 tvg-id="PluyoTV.com" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Pluto TV",Pluto TV
-https://i.mjh.nz/PlutoTV/all.m3u8
+#EXTINF:-1 tvg-id="61f2c6969fcc3800076ef8af" tvg-logo="https://i.imgur.com/1jXXHVr.png" group-title="Brasil: infanto-juvenis",Os Anjinhos | Rugrats | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="63221e41af69b500076f84e7" tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png" group-title="Brasil: infanto-juvenis",Os Padrinhos Mágicos | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="63221e41af69b500076f84e7" tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png" group-title="Brasil: infanto-juvenis",Os Padrinhos Mágicos | Pluto TV Brasil | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="radioperolafm.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img.radios.com.br/radio/lg/radio22474_1509645432.jpg" group-title="Rádios" radio="true",Rádio Perola do Salgado FM PA
 https://9603.brasilstream.com.br/stream?rand=bsgoD
 #EXTINF:-1 tvg-id="jadefm.com.br/" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img.radios.com.br/radio/lg/radio223712_1696258364.jpg" group-title="Rádios" radio="true",Rádio Jade FM PA

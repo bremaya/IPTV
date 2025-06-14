@@ -16,7 +16,7 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w320085599.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/TV_Brasil_logo.png" group-title="TV Aberta",TV Brasil (720p)
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="Cultura.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5jPEI5c.png" group-title="TV Aberta",Cultura PA (720p)
-https://br7.ciclano.io:1443/fundacao-12109/fundacao-12109/chunklist_w254797970.m3u8
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMarajoara.br",TV Marajoara (720p)
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 #EXTINF:-1 tvg-id="Gazeta.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/75/Logotipo_da_TV_Gazeta_%28Rio_Branco%29.png" group-title="TV Aberta",TV Gazeta (720p)

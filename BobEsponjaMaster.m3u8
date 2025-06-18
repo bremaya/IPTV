@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="CC",LANGUAGE="por",NAME="Portuguese",INSTREAM-ID="CC1"
+#EXT-X-STREAM-INF:BANDWIDTH=2977920,AVERAGE-BANDWIDTH=2745600,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=30.000,CLOSED-CAPTIONS="CC"
+2977920/playlist.m3u8?terminate=false&sid=ROKUCHANNEL-6604ac94-f122-4b6d-9197-3f40830584ba&deviceDNT=1&deviceModel=web&deviceVersion=1.0&deviceId=channel&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel
+#EXT-X-STREAM-INF:BANDWIDTH=2020480,AVERAGE-BANDWIDTH=1865600,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=30.000,CLOSED-CAPTIONS="CC"
+2020480/playlist.m3u8?terminate=false&sid=ROKUCHANNEL-6604ac94-f122-4b6d-9197-3f40830584ba&deviceDNT=1&deviceModel=web&deviceVersion=1.0&deviceId=channel&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel
+#EXT-X-STREAM-INF:BANDWIDTH=1302400,AVERAGE-BANDWIDTH=1205600,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=30.000,CLOSED-CAPTIONS="CC"
+1302400/playlist.m3u8?terminate=false&sid=ROKUCHANNEL-6604ac94-f122-4b6d-9197-3f40830584ba&deviceDNT=1&deviceModel=web&deviceVersion=1.0&deviceId=channel&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel
+#EXT-X-STREAM-INF:BANDWIDTH=823680,AVERAGE-BANDWIDTH=765600,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=30.000,CLOSED-CAPTIONS="CC"
+823680/playlist.m3u8?terminate=false&sid=ROKUCHANNEL-6604ac94-f122-4b6d-9197-3f40830584ba&deviceDNT=1&deviceModel=web&deviceVersion=1.0&deviceId=channel&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel
+#EXT-X-STREAM-INF:BANDWIDTH=464640,AVERAGE-BANDWIDTH=435600,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=426x240,FRAME-RATE=30.000,CLOSED-CAPTIONS="CC"
+464640/playlist.m3u8?terminate=false&sid=ROKUCHANNEL-6604ac94-f122-4b6d-9197-3f40830584ba&deviceDNT=1&deviceModel=web&deviceVersion=1.0&deviceId=channel&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel

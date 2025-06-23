@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="globo.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="TV Aberta",Globo
-
+https://live-as-04-13.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDQtMTMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzUwNzYyOTMwLCJpYXQiOjE3NTA2NzY1MzAsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMzYzNTEyZDktYmFlMC00ODI1LWE4ZDgtNDgxNWY2ZWNiZTRhIiwicGF0aCI6Ii9saXZlL2YoYk1heD0yMjYyOTc2LGk9MikvZ2xvYm8tY2FzL3BsYXlsaXN0Lm0zdTgifQ.adjNDgB1QUGc7VSRylMLp5MN-ERJ8CYb6kz_4h1gKtjolXFjNcUXKuK5eWesYh23hpXrEDZ8Y05VpmfnUtW9ShB0K_jRNISsb4pVa368_JVDudsME_AH8SUvN3jEx6z2NalWapexLeT-Mny2Pd6bvOtWRV3XbBVNyiLDud7iawOyvTe98GRMNFb3v3-j5lTu4hUmuPFc9EvncN7AUMTia9sfl9tYl_6TFi3r0BUKCHD3Bp8YoT-jKd9Hl5Bip_C7z7Pb27Itsjt7BTQmAro9SIaEvklMZAyJHpFxyOAa9_kUacHtzNLOK68Q6Qcq66R9WxK6Do1lqMRVMDDzJxD-wA/live/f(bMax=2262976,i=2)/globo-cas/playlist.m3u8
 #EXTINF:-1 tvg-id="sbt.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/800px-Logotipo_do_SBT.svg.png" group-title="TV Aberta",SBT
 https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u8
 #EXTINF:-1 tvg-id="record.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="TV Aberta",Record

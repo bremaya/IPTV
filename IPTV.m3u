@@ -35,13 +35,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&profilesFromStream=true
 #EXTINF:-1 tvg-id="63221e41af69b500076f84e7" tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png" group-title="Pluto TV",Os Padrinhos Mágicos | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="radioperolafm.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img.radios.com.br/radio/lg/radio22474_1509645432.jpg" group-title="Rádios" radio="true",Rádio Perola do Salgado FM PA
+#EXTINF:-1 tvg-id="radioperolafm.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img.radios.com.br/radio/lg/radio22474_1509645432.jpg" group-title="Rádios" radio="true",Rádio Perola do Salgado FM (Vigia PA)
 https://9603.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="jadefm.com.br/" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img.radios.com.br/radio/lg/radio223712_1696258364.jpg" group-title="Rádios" radio="true",Rádio Jade FM PA
+#EXTINF:-1 tvg-id="jadefm.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img.radios.com.br/radio/lg/radio223712_1696258364.jpg" group-title="Rádios" radio="true",Rádio Jade FM (PA)
 https://radio.saopaulo01.com.br:10765/stream
-
-Radio Liberal belém
+#EXTINF:-1 tvg-id="jgrupoliberalmedia.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlu5aAlaNSoHNLoqbQLnYd7dXOSdcIwMeEZQ&s" group-title="Rádios" radio="true",Rádio Liberal FM (Belém PA)
 https://www.grupoliberalmedia.com.br/radiolive/audioradio.stream/chunklist_w1206641412.m3u8
-
-castanhal
+#EXTINF:-1 tvg-id="grupoliberalmedia.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlu5aAlaNSoHNLoqbQLnYd7dXOSdcIwMeEZQ&s" group-title="Rádios" radio="true",Rádio Liberal FM (Castanhal PA)
 https://www.grupoliberalmedia.com.br/rdcastanhal/audiordcastanhal.stream/chunklist_w96367134.m3u8

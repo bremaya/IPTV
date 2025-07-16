@@ -4,11 +4,11 @@ https://live-cm-ah-21-08.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0e
 #EXTINF:-1 tvg-id="sbt.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.sbt.com.br/assets/images/favicon-64x64.png" group-title="TV Aberta",SBT
 https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u8
 #EXTINF:-1 tvg-id="record.r7.com" tvg-country="BR" tvg-anguage="Portuguese" tvg-logo="https://record.r7.com/pf/resources/images/recordtv.ico?d=414" group-title="TV Aberta",Record
-http://tvconquistalrv.duckddns.org:8080/hls/tvconquistalrv.m3u8
+https://01.multicanaistv.xyz/hls/dUQ0cU1qOXZlQW4yeGQ2OFUxZDFCL2FRN1VwWEdkbUxXZ0tZUDlhc1N1emxYdVgxRkJjblUrajRRM3Z2Z1ZqNzBhbDhQeEFna3ZPaHErMXV2bGx4cUE9PQ,,/master.m3u8
 #EXTINF:-1 tvg-id="band.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.band.com.br/assets/icons/portal-72x72.png" group-title="TV Aberta",Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-id="redetv.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/RedeTV%21_logo_2014_%28vertical_version%2C_2017%29.png" group-title="TV Aberta",Rede TV!
-https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(s7FeuHtNUNRCsV-Jf7tyHdbADSo2MtzEp_FcUGrpZsIwyYnB2QMZtlt-4llfj_F6cmTHoO8uTLWH5PPNv45xmO59N8A1Ry94B2XZkBiirHxCfU91x68oqZCgycGgMzcl)/dm/3/x8xps0s/d/live-380.m3u8#cell=lcf-eu-north-1b
 #EXTINF:-1 tvg-id="Loading.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp" group-title="TV Aberta",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png" group-title="TV Aberta",Rede Brasil
@@ -19,6 +19,8 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-id="tvmarajoara.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.tvmarajoara.com.br/wp-content/uploads/sites/46/2023/06/cropped-favicon-32x32.png" group-title="TV Aberta",TV Marajoara
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:-1 tvg-id="tvgraopara.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.tvgraopara.com.br/wp-content/uploads/2018/11/cropped-download-32x32.png" group-title="TV Aberta",TV Grão Pará
+https://video01.kshost.com.br/moises3834/moises3834/playlist.m3u8?t=1752627769
 #EXTINF:-1 tvg-id="SuperflixTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Superflix_website_logo.jpg" group-title="TV Aberta",Acesso Channel
 https://streaming.cloudecast.com/hls/superflix/index.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="TV Aberta",TV Aparecida
@@ -29,7 +31,7 @@ https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/in
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-id="JovemPan.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png" group-title="TV Aberta",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-#EXTINF:-1 tvg-id="MTV.br" group-title="Pluto TV",Pluto TV MTV (Brazil)
+#EXTINF:-1 tvg-id="MTV.br" tvg-id="5f1212fb81e85c00077ae9ef" tvg-logo="http://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" group-title="Pluto TV"group-title="Pluto TV",Pluto TV MTV (Brazil)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="62545c0b002f4b0007688b61" tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Pluto TV",Bob Esponja | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&profilesFromStream=true

@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="globo.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="TV Aberta",Globo
-https://egcdn-live.video.globo.com/live/f(i=2)/globo-bh/edge-cache-token=Expires=1753140158&KeyName=media-cdn-keyset-prod&Signature=QbPkK8r368WMYtWmxqvfcNLxoAWT5KDyLkdhB7WN4xUkPrhcNtyz2BM0LjC7j1jBaczQoSNI_EgarrB2sXl6Cg==/playlist.m3u8
+https://load1.megafilmeshd.lol/playlist/03a362f8432f9c98e7e0849d20281e66/fb3dc0eb103b0d3ac21c3698ba2c4cf3/master.txt?token=NDVBWVJXUkh0emJNU3BFSDQ5amUwdz09OjpThjlQdAQPRjNGwynXVTbz
 #EXTINF:-1 tvg-id="sbt.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.sbt.com.br/assets/images/favicon-64x64.png" group-title="TV Aberta",SBT
 https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u8
 #EXTINF:-1 tvg-id="record.r7.com" tvg-country="BR" tvg-anguage="Portuguese" tvg-logo="https://record.r7.com/pf/resources/images/recordtv.ico?d=414" group-title="TV Aberta",Record

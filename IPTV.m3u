@@ -7,15 +7,15 @@ https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u8
 https://01.multicanaistv.xyz/hls/dUQ0cU1qOXZlQW4yeGQ2OFUxZDFCL2FRN1VwWEdkbUxXZ0tZUDlhc1N1emxYdVgxRkJjblUrajRRM3Z2Z1ZqNzBhbDhQeEFna3ZPaHErMXV2bGx4cUE9PQ,,/master.m3u8
 #EXTINF:-1 tvg-id="band.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.band.com.br/assets/icons/portal-72x72.png" group-title="TV Aberta",Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1 tvg-id="redetv.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/RedeTV%21_logo_2014_%28vertical_version%2C_2017%29.png" group-title="TV Aberta",Rede TV!
+#EXTINF:-1 tvg-id="redetv.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.redetv.uol.com.br/favicon.ico" group-title="TV Aberta",Rede TV!
 https://live.eu-north-1b.cf.dmcdn.net/sec2(FrYCNPu7NXVCHZRTIzPKB1fjJk33f7Vwuwxb86HLmeUmlKDN-JUxwSUUT3XqkCYDP9xvTHKtaMdxhZs8xGcPnaHfokvUeCJKxRjlHUSkhqDXSWdWQKr1SShCu8hNWGhZ)/dm/3/x8xps0s/d/live-720.m3u8#cell=lcf-eu-north-1b
 #EXTINF:-1 tvg-id="Loading.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp" group-title="TV Aberta",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png" group-title="TV Aberta",Rede Brasil
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/TV_Brasil_logo.png" group-title="TV Aberta",TV Brasil
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://public.ebc.com.br/templates/logos/v3/favicon.png" group-title="TV Aberta",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="portalcultura.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5jPEI5c.png" group-title="TV Aberta",Cultura
+#EXTINF:-1 tvg-id="portalcultura.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cultura.uol.com.br/favicon.ico" group-title="TV Aberta",Cultura
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-id="tvmarajoara.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.tvmarajoara.com.br/wp-content/uploads/sites/46/2023/06/cropped-favicon-32x32.png" group-title="TV Aberta",TV Marajoara
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
@@ -27,7 +27,7 @@ https://streaming.cloudecast.com/hls/superflix/index.m3u8
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-id="redevida.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://redevida.com.br/wp-content/uploads/2024/05/cropped-android-chrome-512x512-1-32x32.png" group-title="TV Aberta",Rede Vida
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
-#EXTINF:-1 tvg-id="Record.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png" group-title="TV Aberta",Record News
+#EXTINF:-1 tvg-id="Record.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://noticias.r7.com/pf/resources/images/noticias.ico?d=426" group-title="TV Aberta",Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-id="JovemPan.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png" group-title="TV Aberta",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Globo.br" tvg-country="BR1" tvg-language="Portuguese" tvg-logo="https://s2-redeglobo.glbimg.com/6lHCdG8QmyH1w5AcCEBfcaXgh08=/128x128/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_b58693ed41d04a39826739159bf600a0/internal_photos/bs/2023/P/I/d2VHTBQFO041UZJM2p9A/favicon-redeglobo.png" group-title="TV Aberta",Globo
+#EXTINF:-1 tvg-id="Globo.br" tvg-country="BR1" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/TV_Globo_logo_%28April_2025%29.png/250px-TV_Globo_logo_%28April_2025%29.png" group-title="TV Aberta",Globo
 https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/4807e405c552f3cdb12c1ef727cc146e.m3u8
 #EXTINF:-1 tvg-id="sbt.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.sbt.com.br/assets/images/favicon-64x64.png" group-title="TV Aberta",SBT
 https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u8

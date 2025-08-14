@@ -39,6 +39,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b0
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="radioperolafm.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img.radios.com.br/radio/lg/radio22474_1509645432.jpg" group-title="Rádios" radio="true",Rádio Perola do Salgado FM (Vigia PA)
 https://9603.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="princesafmcapanema.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.princesafmcapanema.com.br/admin/assets/img/ouvinte.png" group-title="Rádios" radio="true",Rádio Princesa FM (Capanema PA)
+https://5a57bda70564a.streamlock.net/princehd/princehd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="jadefm.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img.radios.com.br/radio/lg/radio223712_1696258364.jpg" group-title="Rádios" radio="true",Rádio Jade FM (PA)
 https://radio.saopaulo01.com.br:10765/stream
 #EXTINF:-1 tvg-id="jgrupoliberalmedia.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlu5aAlaNSoHNLoqbQLnYd7dXOSdcIwMeEZQ&s" group-title="Rádios" radio="true",Rádio Liberal FM (Belém PA)

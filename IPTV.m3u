@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Globo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png" group-title="TV Aberta",Globo
 http://aguacomgas.shop/live/400087118461/427705559174/153471.m3u8
-#EXTINF:-1 tvg-id="sbt.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg" group-title="TV Aberta",SBT
+#EXTINF:-1 tvg-id="sbt.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://imagensempng.com.br/wp-content/uploads/2020/12/Logo-SBT-Png-768x768.png" group-title="TV Aberta",SBT
 https://aovivo.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/indexMobile.m3u8
 #EXTINF:-1 tvg-id="record.br" tvg-country="BR" tvg-anguage="Portuguese" tvg-logo="https://record.r7.com/pf/resources/images/recordtv.ico?d=414" group-title="TV Aberta",Record
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8

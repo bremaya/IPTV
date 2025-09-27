@@ -123,5 +123,3 @@ https://radio.saopaulo01.com.br:10765/stream
 https://www.grupoliberalmedia.com.br/radiolive/audioradio.stream/chunklist_w1206641412.m3u8
 #EXTINF:-1 tvg-id="grupoliberalmedia.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlu5aAlaNSoHNLoqbQLnYd7dXOSdcIwMeEZQ&s" group-title="Rádios" radio="true",Rádio Liberal FM (Castanhal PA)
 https://www.grupoliberalmedia.com.br/rdcastanhal/audiordcastanhal.stream/chunklist_w96367134.m3u8
-#EXTINF:-1 tvg-id="teste.com.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="Rádios" radio="true",Teste FM (Castanhal PA)
-http://www.grupoliberalmedia.com.br/rdcastanhal/audiordcastanhal.stream/chunklist_w96367134.m3u8
